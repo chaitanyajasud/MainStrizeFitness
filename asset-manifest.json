@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MainStrizeFitness/static/css/main.e27b674c.css",
+    "main.js": "/MainStrizeFitness/static/js/main.64b708ee.js",
+    "static/js/787.cd9a85f3.chunk.js": "/MainStrizeFitness/static/js/787.cd9a85f3.chunk.js",
+    "static/media/img_1.jpg": "/MainStrizeFitness/static/media/img_1.ffcd6a1ec1e46d164965.jpg",
+    "static/media/img_3.jpg": "/MainStrizeFitness/static/media/img_3.5a075b600b8f8c10347e.jpg",
+    "static/media/img_9.webp": "/MainStrizeFitness/static/media/img_9.0b99df2b9c9a5b758afc.webp",
+    "static/media/newlogo.ico": "/MainStrizeFitness/static/media/newlogo.c27fb513bb0f8330fd86.ico",
+    "index.html": "/MainStrizeFitness/index.html",
+    "main.e27b674c.css.map": "/MainStrizeFitness/static/css/main.e27b674c.css.map",
+    "main.64b708ee.js.map": "/MainStrizeFitness/static/js/main.64b708ee.js.map",
+    "787.cd9a85f3.chunk.js.map": "/MainStrizeFitness/static/js/787.cd9a85f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e27b674c.css",
+    "static/js/main.64b708ee.js"
+  ]
+}
